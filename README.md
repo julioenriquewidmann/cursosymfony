@@ -1,4 +1,3 @@
 cursosymfony
 ============
-
-A Symfony project created on September 12, 2015, 7:27 pm.
+Este proyecto es un curso de symfony desarrollado por Julio Widmann 
